@@ -1,0 +1,22 @@
+.nao-robo {
+    float: left;
+    clear: both;
+}
+
+.cadastre-se {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+
+body {
+    background-color: #92d0e5;
+}
+
+.container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+}
